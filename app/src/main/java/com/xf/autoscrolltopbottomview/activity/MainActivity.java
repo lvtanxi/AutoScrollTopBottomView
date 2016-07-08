@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public void onClick(View v) {
+
         Intent intent = new Intent();
         switch (v.getId()) {
             case R.id.scrollview_test:
