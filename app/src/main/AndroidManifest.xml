@@ -17,6 +17,7 @@
         </activity>
         <activity android:name=".activity.ScrollViewTestActivity" />
         <activity android:name=".activity.ListViewTestActivity"></activity>
+        <activity android:name=".activity.SlideMenuViewAct"/>
     </application>
 
 </manifest>

@@ -23,4 +23,12 @@
         android:padding="20dp"
         android:text="ListViewTest"
         android:textSize="20sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="20dp"
+        android:onClick="SlideMenuView_test"
+        android:text="SlideMenuView"
+        android:textSize="20sp" />
 </LinearLayout>
